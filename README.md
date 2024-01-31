@@ -13,8 +13,9 @@ By the end of today's lecture, you will be able to create class attributes and c
     - When should we add to this?
 3. Define a class method `get_all_books` that returns all books.
     - How many ways can you define a class method?
-4. Define a class method `get_avg_page_count` that returns the mean/average page count across all books.
-5. Define a class method `get_longest` that returns the longest book.
+4. Define a class method `get_first_book` that returns the first book in the list.
+5. Define a class method `get_avg_page_count` that returns the mean/average page count across all books.
+6. Define a class method `get_longest_book` that returns the longest book.
 
 ## Looking Ahead
 
