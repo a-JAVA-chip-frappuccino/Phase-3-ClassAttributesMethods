@@ -10,6 +10,7 @@ By the end of today's lecture, you will be able to create class attributes and c
 1. Define a class Book with three properties: title, author, page_count
 2. Define a class attribute that stores all objects.
     - What distinguishes a class attribute from an instance attribute?
+    - When should we add to this?
 3. Define a class method `get_all_books` that returns all books.
     - How many ways can you define a class method?
 4. Define a class method `get_avg_page_count` that returns the mean/average page count across all books.
